@@ -1,0 +1,26 @@
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator_MarkupCompile.cache
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator_MarkupCompile.lref
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\Rumor Mill Generator.exe
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\Rumor Mill Generator.deps.json
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\Rumor Mill Generator.runtimeconfig.json
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\Rumor Mill Generator.dll
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\ref\Rumor Mill Generator.dll
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\Rumor Mill Generator.pdb
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.g.resources
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.dll
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\ref\Rumor Mill Generator.dll
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.pdb
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator.genruntimeconfig.cache
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\names.txt
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\nouns.txt
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\verbs1.txt
+C:\Users\Chris\Desktop\Rumor Mill Generator\bin\Debug\net6.0-windows\verbs2.txt
+C:\Users\Chris\Desktop\Rumor Mill Generator\obj\Debug\net6.0-windows\Rumor Mill Generator_Content.g.cs
